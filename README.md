@@ -1,5 +1,9 @@
-# HI
+HI...
 
-# COLLECTION OF ALL RBR LECTURES OF C PROGRAMS
+## COLLECTION OF ALL RBR LECTURES OF C PROGRAMS
 
-# WILL MAKE ONE WITH C++ PROGRAMS AS WELL
+Will be updating all the C programming problems alongside Data Structures and Algorithms problems in this repository
+
+Currently the repo is private but will go public after a few things are sorted out
+
+## SWIFT PROJECTS REPO COMING SOON
